@@ -1,0 +1,15 @@
+
+Contacts
+
+Dialer
+FMRadio
+
+ViPER4Android
+WallpaperCropper
+Snap
+
+WeatherManagerService (Keep) Just in case
+WeatherProvider (Keep) Just in case
+CalendarProvider (Keep) It provides calendar storage.
+ContactsProvider (Keep) Or else it prevents contacts syncing.
+Nox (Keep) Because it's needed to finish setup.
